@@ -1,16 +1,16 @@
 # Responsive Navigation Bar (HTML, CSS, SASS & Javascript)
 
-Run
+To develop
 
-```properties
+```bash
 cd navigation_bar
 ```
 
-```properties
+```bash
 npm i
 ```
 
-```properties
+```bash
 npx mix watch
 ```
 
